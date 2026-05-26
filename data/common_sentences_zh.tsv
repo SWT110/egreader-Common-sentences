@@ -1,0 +1,151 @@
+id	en	zh	category	categoryZh	wordCount	frequency
+ecs_0001	Excuse me.	打扰一下。	request	请求句	2	374450
+ecs_0002	Oh, my God.	哦，我的天。	emotion	情绪反应句	3	366536
+ecs_0003	Yes, sir.	是的，先生。	response	回应句	2	305004
+ecs_0004	What is it?	这是什么？	question	疑问句	3	245166
+ecs_0005	Oh, yeah.	哦，对。	response	回应句	2	224975
+ecs_0006	No, no.	不，不。	response	回应句	2	212202
+ecs_0007	What happened?	发生什么事了？	question	疑问句	2	205502
+ecs_0008	Oh, no.	哦，不。	emotion	情绪反应句	2	204461
+ecs_0009	That's it.	就是这样。	response	回应句	2	197848
+ecs_0010	Come here.	过来。	request	请求句	2	185672
+ecs_0011	It's okay.	没关系。	response	回应句	2	184416
+ecs_0012	All right?	可以吗？	question	疑问句	2	172441
+ecs_0013	You know what?	你知道吗？	question	疑问句	3	158031
+ecs_0014	No, no, no.	不，不，不。	response	回应句	3	157952
+ecs_0015	Wait a minute.	等一下。	request	请求句	3	122334
+ecs_0016	Good night.	晚安。	greeting	寒暄句	2	122136
+ecs_0017	What's wrong?	怎么了？	question	疑问句	2	119334
+ecs_0018	Hold on.	等一下。	request	请求句	2	114973
+ecs_0019	I see.	我明白了。	response	回应句	2	114754
+ecs_0020	Are you okay?	你还好吗？	question	疑问句	3	105761
+ecs_0021	You're right.	你说得对。	response	回应句	2	103993
+ecs_0022	Go ahead.	请继续。	request	请求句	2	102567
+ecs_0023	Good morning.	早上好。	greeting	寒暄句	2	100734
+ecs_0024	Got it.	明白了。	response	回应句	2	99076
+ecs_0025	What do you think?	你觉得怎么样？	question	疑问句	4	96537
+ecs_0026	Sit down.	坐下。	request	请求句	2	95213
+ecs_0027	Here we go.	开始吧。	fixed	固定口语表达	3	93070
+ecs_0028	You okay?	你还好吗？	question	疑问句	2	90114
+ecs_0029	What's the matter?	怎么回事？	question	疑问句	3	88066
+ecs_0030	It's all right.	没关系。	response	回应句	3	87825
+ecs_0031	What is this?	这是什么？	question	疑问句	3	86682
+ecs_0032	There you go.	给你。	fixed	固定口语表达	3	85784
+ecs_0033	Help me!	帮帮我！	request	请求句	2	79986
+ecs_0034	Oh, yes.	哦，是的。	response	回应句	2	78542
+ecs_0035	Get up!	起来！	request	请求句	2	77807
+ecs_0036	I got it.	我懂了。	response	回应句	3	77585
+ecs_0037	Where are you?	你在哪里？	question	疑问句	3	76812
+ecs_0038	I'm so sorry.	我很抱歉。	response	回应句	3	76160
+ecs_0039	What's this?	这是什么？	question	疑问句	2	75913
+ecs_0040	What is that?	那是什么？	question	疑问句	3	74736
+ecs_0041	I understand.	我明白。	response	回应句	2	73627
+ecs_0042	Listen to me.	听我说。	request	请求句	3	72340
+ecs_0043	Where is he?	他在哪里？	question	疑问句	3	71498
+ecs_0044	Thank you!	谢谢你！	response	回应句	2	71022
+ecs_0045	Thank you very much.	非常感谢。	response	回应句	4	70928
+ecs_0046	Are you all right?	你还好吗？	question	疑问句	4	70645
+ecs_0047	Hurry up!	快点！	request	请求句	2	69177
+ecs_0048	Yeah, yeah.	是啊，是啊。	response	回应句	2	67932
+ecs_0049	I will.	我会的。	response	回应句	2	67318
+ecs_0050	I don't understand.	我不明白。	response	回应句	3	67256
+ecs_0051	That's good.	那很好。	response	回应句	2	66580
+ecs_0052	Look at me.	看着我。	request	请求句	3	65658
+ecs_0053	Not yet.	还没有。	response	回应句	2	65156
+ecs_0054	No, sir.	不是，先生。	response	回应句	2	63985
+ecs_0055	No problem.	没问题。	response	回应句	2	63285
+ecs_0056	Here you go.	给你。	fixed	固定口语表达	3	62592
+ecs_0057	Good luck.	祝你好运。	greeting	寒暄句	2	61402
+ecs_0058	You all right?	你还好吗？	question	疑问句	3	61333
+ecs_0059	You're welcome.	不客气。	response	回应句	2	61306
+ecs_0060	What's your name?	你叫什么名字？	question	疑问句	3	61210
+ecs_0061	I promise.	我保证。	response	回应句	2	60902
+ecs_0062	Forget it.	算了吧。	fixed	固定口语表达	2	59690
+ecs_0063	Don't move.	别动。	request	请求句	2	59625
+ecs_0064	This way.	这边走。	request	请求句	2	58216
+ecs_0065	Who is it?	是谁？	question	疑问句	3	57934
+ecs_0066	Oh, come on.	哦，拜托。	fixed	固定口语表达	3	56434
+ecs_0067	It's me.	是我。	response	回应句	2	56266
+ecs_0068	You got it.	没问题。	response	回应句	3	55692
+ecs_0069	What was that?	那是什么？	question	疑问句	3	55492
+ecs_0070	Of course not.	当然不是。	response	回应句	3	53075
+ecs_0071	Very good.	很好。	response	回应句	2	52267
+ecs_0072	That's great.	太好了。	response	回应句	2	52184
+ecs_0073	Get down!	趴下！	request	请求句	2	52165
+ecs_0074	Hang on.	等一下。	request	请求句	2	51587
+ecs_0075	Let me go!	放开我！	request	请求句	3	51552
+ecs_0076	And you?	你呢？	question	疑问句	2	51371
+ecs_0077	Look at this.	看看这个。	request	请求句	3	50619
+ecs_0078	Nice to meet you.	很高兴认识你。	greeting	寒暄句	4	50533
+ecs_0079	I'm not.	我不是。	response	回应句	2	50100
+ecs_0080	I don't know!	我不知道！	response	回应句	3	49883
+ecs_0081	Not at all.	一点也不。	response	回应句	3	49592
+ecs_0082	Thank you, sir.	谢谢您，先生。	response	回应句	3	49366
+ecs_0083	Good evening.	晚上好。	greeting	寒暄句	2	49237
+ecs_0084	Go away!	走开！	request	请求句	2	49017
+ecs_0085	What did you say?	你说什么？	question	疑问句	4	47467
+ecs_0086	Be careful.	小心。	request	请求句	2	46669
+ecs_0087	What for?	为什么？	question	疑问句	2	46485
+ecs_0088	Yeah, I know.	是的，我知道。	response	回应句	3	46215
+ecs_0089	How you doing?	你好吗？	greeting	寒暄句	3	45728
+ecs_0090	I'll be right back.	我马上回来。	fixed	固定口语表达	4	45567
+ecs_0091	Trust me.	相信我。	request	请求句	2	45490
+ecs_0092	Hold it.	等一下。	request	请求句	2	45377
+ecs_0093	Get out.	出去。	request	请求句	2	44982
+ecs_0094	Where is she?	她在哪里？	question	疑问句	3	44804
+ecs_0095	Look at that.	看看那个。	request	请求句	3	44307
+ecs_0096	I don't care.	我不在乎。	response	回应句	3	44305
+ecs_0097	That's enough.	够了。	request	请求句	2	44208
+ecs_0098	Wake up!	醒醒！	request	请求句	2	44190
+ecs_0099	Okay, okay.	好，好。	response	回应句	2	44165
+ecs_0100	What's happening?	发生什么了？	question	疑问句	2	44047
+ecs_0101	Not really.	不太是。	response	回应句	2	44012
+ecs_0102	Never mind.	没关系。	fixed	固定口语表达	2	43922
+ecs_0103	No, thanks.	不用了，谢谢。	response	回应句	2	43815
+ecs_0104	Do you understand?	你明白吗？	question	疑问句	3	43666
+ecs_0105	Hey, hey.	嘿，嘿。	greeting	寒暄句	2	43616
+ecs_0106	What does that mean?	那是什么意思？	question	疑问句	4	43336
+ecs_0107	Come with me.	跟我来。	request	请求句	3	43062
+ecs_0108	You see?	你看到了吗？	question	疑问句	2	42200
+ecs_0109	Oh, really?	哦，真的吗？	question	疑问句	2	42132
+ecs_0110	Yes, ma'am.	是的，女士。	response	回应句	2	41712
+ecs_0111	It's fine.	没事。	response	回应句	2	41440
+ecs_0112	Yeah, sure.	当然可以。	response	回应句	2	41419
+ecs_0113	No, thank you.	不用了，谢谢。	response	回应句	3	40733
+ecs_0114	Are you crazy?	你疯了吗？	question	疑问句	3	40723
+ecs_0115	Come on, come on.	快点，快点。	fixed	固定口语表达	4	40565
+ecs_0116	It's over.	结束了。	response	回应句	2	40302
+ecs_0117	What about you?	你呢？	question	疑问句	3	39878
+ecs_0118	I told you.	我告诉过你。	response	回应句	3	39734
+ecs_0119	You know that.	你知道的。	response	回应句	3	39544
+ecs_0120	Take it easy.	放轻松。	fixed	固定口语表达	3	39376
+ecs_0121	There you are.	你在这儿。	fixed	固定口语表达	3	39374
+ecs_0122	I knew it.	我就知道。	response	回应句	3	39262
+ecs_0123	I get it.	我懂了。	response	回应句	3	39089
+ecs_0124	Where is it?	它在哪里？	question	疑问句	3	39047
+ecs_0125	Come on, let's go.	快点，我们走。	request	请求句	4	38769
+ecs_0126	Over here.	在这边。	fixed	固定口语表达	2	38756
+ecs_0127	There he is.	他在那儿。	fixed	固定口语表达	3	38543
+ecs_0128	Thank you so much.	非常感谢你。	response	回应句	4	38456
+ecs_0129	I know!	我知道！	response	回应句	2	38401
+ecs_0130	How much?	多少钱？	question	疑问句	2	38036
+ecs_0131	Take it.	拿着。	request	请求句	2	38009
+ecs_0132	How do you know?	你怎么知道？	question	疑问句	4	37818
+ecs_0133	What are you saying?	你在说什么？	question	疑问句	4	37682
+ecs_0134	Yes, of course.	是的，当然。	response	回应句	3	37217
+ecs_0135	Come on, man.	拜托，伙计。	fixed	固定口语表达	3	36974
+ecs_0136	Get in.	进去。	request	请求句	2	36730
+ecs_0137	Follow me.	跟我来。	request	请求句	2	36650
+ecs_0138	Yes, yes.	是，是。	response	回应句	2	36209
+ecs_0139	Who's that?	那是谁？	question	疑问句	2	36208
+ecs_0140	I'm here.	我在这儿。	response	回应句	2	35990
+ecs_0141	Yeah, right.	是啊，没错。	response	回应句	2	35953
+ecs_0142	Let go!	放手！	request	请求句	2	35891
+ecs_0143	How do you do?	你好。	greeting	寒暄句	4	35717
+ecs_0144	Look out!	小心！	request	请求句	2	35664
+ecs_0145	See you.	再见。	greeting	寒暄句	2	35472
+ecs_0146	You did?	真的吗？	question	疑问句	2	35448
+ecs_0147	Right here.	就在这里。	fixed	固定口语表达	2	35446
+ecs_0148	It's true.	是真的。	response	回应句	2	35411
+ecs_0149	This is it.	就是这个。	fixed	固定口语表达	3	35369
+ecs_0150	Do it.	去做吧。	request	请求句	2	35288
