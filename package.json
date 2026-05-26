@@ -1,0 +1,15 @@
+{
+  "name": "egreader-common-sentences",
+  "version": "1.0.0",
+  "description": "Cleaned daily English common sentence data with Chinese translations for egreader.",
+  "main": "index.js",
+  "type": "commonjs",
+  "files": [
+    "data",
+    "index.js"
+  ],
+  "scripts": {
+    "validate": "python3 scripts/validate_common_sentences.py"
+  },
+  "license": "MIT"
+}
